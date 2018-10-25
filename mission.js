@@ -70,7 +70,7 @@ Console.log to see your result.*/
  String us_dollar = "Dollars"; 
  String yen = "Yen";
 
- 
+ TEST
  
  /*Mission 7:
  Team Member: Kevin
