@@ -67,10 +67,6 @@ Console.log to see your result.*/
  char us_dollar_sym = 36;
  char yen_sym = 165; 
 
- String us_dollar = "Dollars"; 
- String yen = "Yen";
-
- TEST
  
  /*Mission 7:
  Team Member: Kevin
