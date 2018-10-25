@@ -42,6 +42,12 @@ Console.log to see your result.*/
  
  Create a function named evens that takes in a parameter arr and will sum up only the even indexed numbers in the array and returns a new array.
  Console.log your result.*/
+
+ var evens = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+ 
+
+
+
  
  
  /*Mission 5:
