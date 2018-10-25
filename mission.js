@@ -63,6 +63,13 @@ Console.log to see your result.*/
  
  Create a function named yenConverter that takes a parameter rate and will convert dollars to yen based on today's foreign exchange rate and returns the new yen amount.
  Console.log your result*/
+
+ char us_dollar_sym = 36;
+ char yen_sym = 165; 
+
+ String us_dollar = "Dollars"; 
+ String yen = "Yen";
+
  
  
  /*Mission 7:
