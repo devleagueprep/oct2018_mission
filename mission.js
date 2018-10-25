@@ -53,7 +53,17 @@ Console.log to see your result.*/
  
  Create a function named plusOne that takes two parameters arr and str and will add a new string element into an array and will return the array.
  Console.log your result*/
- 
+
+var strArray = [ ];
+
+ function plusOne(arr, str) {
+      arr.push(str);
+      return `Updated Array: ${arr}`;
+
+}
+
+console.log(plusOne(strArray, 'Hello world!')); 
+console.log(plusOne(strArray, 'asojidojsadojisdaiosda'));
  
  /*Mission 6:
  Team Member: Khylle
