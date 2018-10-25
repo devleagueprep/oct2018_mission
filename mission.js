@@ -73,7 +73,12 @@ Console.log to see your result.*/
  
  Create a function named kmConverter that takes in a parameter miles and will convert miles to kilometers and returns the new kilometer amount
  Console.log your result.*/
- 
+ function kmConverter(miles){
+    var MILES_TO_KM = 1.60934;
+    var conversion = miles*MILES_TO_KM
+    return conversion
+ }
+ console.log(kmConverter(9999999999));
 
  /*Mission 8:
  Team Member: Jhordan
